@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  </head>
+  <body>
+    <h1>FOOD</h1>
+    <div id="bio">
+    Hello! My name is Anika. I am 16 years old and a junior at North Creek High School. I was born on June 24, 2003 at 5 p.m. on a Tuesday. My hobbies include drawing, singing, arts and crafts and playing the piano. This summer of 2019, I joined the <a href = "https://hq.girlswhocode.com/login?redirectTo=%2F"> girls who code <a/> summer immersion program hosted by At&t at Redmond. I also have finished driver’s ed. But, outside of my educational life and hobbies, I also love nature walks, drowning in my sorrows by listening to depressing music at 2 a.m. lying in my bed, and binge- watching Stranger Things.
+
+    <h3>Funny memories</h3>
+    <h3>Meeting my best friend</h3>
+    <h3>Successes/ Failures</h3>
+    <h3>Story of first broken bone</h3>
+    <h3>Passion for music</h3>
+  </body>
+</html>
